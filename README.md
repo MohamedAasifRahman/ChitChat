@@ -55,3 +55,7 @@ http://localhost/chitchat
 - Search for other users dynamically
 - Send and receive private messages
 - Update profile details and profile picture
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
